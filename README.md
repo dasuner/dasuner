@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Daz
+
+Software Qualtiy Engineering Professonal with over 12 years of experience in IT industry. 
+
+- 💻 I'm currently work at Surge Global![surge 2](https://github.com/user-attachments/assets/e5bf5a6e-ebaf-412e-84c9-11860add5cd6)
+
 
 <!--
 **dasuner/dasuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
